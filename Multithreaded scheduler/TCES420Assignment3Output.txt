@@ -1,0 +1,138 @@
+[jonchac@cssgate2 420HW]$ ./qqq
+Job CREATED 0
+Job 0 is ENTERING CPU QUEUE
+Job CREATED 1
+Job 1 is ENTERING CPU QUEUE
+Waiting for JOB 0 on CPU
+Waiting for JOB 1 on CPU
+Job 0 entering Finished queue
+Job CREATED 2
+Job 2 is ENTERING CPU QUEUE
+Job 1 entering Finished queue
+Job 0 dequeueing off FinalQ
+ Job CREATED 3
+Job 3 is ENTERING CPU QUEUE
+Waiting for JOB 2 on CPU
+Job CREATED 4
+Job 4 is ENTERING CPU QUEUE
+Job 2 entering Finished queue
+Job 1 dequeueing off FinalQ
+ Job CREATED 5
+Job 5 is ENTERING CPU QUEUE
+Job CREATED 6
+Job 6 is ENTERING CPU QUEUE
+Waiting for JOB 5 on CPU
+Job CREATED 7
+Job 7 is ENTERING CPU QUEUE
+Waiting for JOB 7 on CPU
+Job 5 entering Finished queue
+Job CREATED 8
+Job 8 is ENTERING CPU QUEUE
+Job 2 dequeueing off FinalQ
+ Job 7 entering Finished queue
+Job CREATED 9
+Job 9 is ENTERING CPU QUEUE
+Job 5 dequeueing off FinalQ
+ Job CREATED 10
+Job 10 is ENTERING CPU QUEUE
+Waiting for JOB 9 on CPU
+Waiting for JOB 10 on CPU
+Job CREATED 11
+Job 11 is ENTERING CPU QUEUE
+Job 9 entering Finished queue
+Job CREATED 12
+Job 12 is ENTERING CPU QUEUE
+Job 7 dequeueing off FinalQ
+ Job 10 entering Finished queue
+Job CREATED 13
+Job 13 is ENTERING CPU QUEUE
+Job 9 dequeueing off FinalQ
+ Waiting for JOB 12 on CPU
+Waiting for JOB 13 on CPU
+Job 12 entering Finished queue
+Job CREATED 14
+Job 14 is ENTERING CPU QUEUE
+Job 13 entering Finished queue
+Job 10 dequeueing off FinalQ
+ Job CREATED 15
+Job 15 is ENTERING CPU QUEUE
+Job 12 dequeueing off FinalQ
+ Job CREATED 16
+Job 16 is ENTERING CPU QUEUE
+Waiting for JOB 15 on CPU
+Job CREATED 17
+Job 17 is ENTERING CPU QUEUE
+Job 15 entering Finished queue
+Job CREATED 18
+Job 18 is ENTERING CPU QUEUE
+Waiting for JOB 17 on CPU
+Job 13 dequeueing off FinalQ
+ Job CREATED 19
+Job 19 is ENTERING CPU QUEUE
+Job 17 entering Finished queue
+Job 15 dequeueing off FinalQ
+ Job CREATED 20
+Job 20 is ENTERING CPU QUEUE
+Job CREATED 21
+Job 21 is ENTERING CPU QUEUE
+Waiting for JOB 20 on CPU
+Job CREATED 22
+Job 22 is ENTERING CPU QUEUE
+Job CREATED 23
+Job 23 is ENTERING CPU QUEUE
+Job 20 entering Finished queue
+Job 17 dequeueing off FinalQ
+ Job CREATED 24
+Job 24 is ENTERING CPU QUEUE
+Job CREATED 25
+Job 25 is ENTERING CPU QUEUE
+Job CREATED 26
+Job 26 is ENTERING CPU QUEUE
+Waiting for JOB 25 on CPU
+Waiting for JOB 26 on CPU
+Job 25 entering Finished queue
+Job CREATED 27
+Job 27 is ENTERING CPU QUEUE
+Job 26 entering Finished queue
+Job 20 dequeueing off FinalQ
+ Job CREATED 28
+Job 28 is ENTERING CPU QUEUE
+Waiting for JOB 27 on CPU
+Job 25 dequeueing off FinalQ
+ Waiting for JOB 28 on CPU
+Job 27 entering Finished queue
+Job CREATED 29
+Job 29 is ENTERING CPU QUEUE
+Job 26 dequeueing off FinalQ
+ Job 28 entering Finished queue
+Job CREATED 30
+Job 30 is ENTERING CPU QUEUE
+Waiting for JOB 29 on CPU
+Job 27 dequeueing off FinalQ
+ Job CREATED 31
+Job 31 is ENTERING CPU QUEUE
+Waiting for JOB 31 on CPU
+Job CREATED 32
+Job 32 is ENTERING CPU QUEUE
+Job 29 entering Finished queue
+Waiting for JOB 32 on CPU
+Job CREATED 33
+Job 33 is ENTERING CPU QUEUE
+Job 28 dequeueing off FinalQ
+ Job 31 entering Finished queue
+Waiting for JOB 33 on CPU
+Job CREATED 34
+Job 34 is ENTERING CPU QUEUE
+Job 29 dequeueing off FinalQ
+ Job 32 entering Finished queue
+Job CREATED 35
+Job 35 is ENTERING CPU QUEUE
+Job 31 dequeueing off FinalQ
+ Job 33 entering Finished queue
+Job CREATED 36
+Job 36 is ENTERING CPU QUEUE
+Job 32 dequeueing off FinalQ
+ Job CREATED 37
+Job 37 is ENTERING CPU QUEUE
+Waiting for JOB 36 on CPU
+^C
